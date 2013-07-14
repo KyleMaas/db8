@@ -1,0 +1,22 @@
+<map id="MojSignalBase" name="MojSignalBase">
+<area shape="rect" id="node5" href="$classMojSignal0.htm" title="MojSignal0" alt="" coords="385,13,476,43"/>
+<area shape="rect" id="node9" href="$classMojSignal1.htm" title="MojSignal1\&lt; ARG1 \&gt;" alt="" coords="353,67,508,96"/>
+<area shape="rect" id="node11" href="$classMojSignal1.htm" title="MojSignal1\&lt; TARG1 \&gt;" alt="" coords="349,120,512,149"/>
+<area shape="rect" id="node15" href="$classMojSignal2.htm" title="MojSignal2\&lt; ARG1, ARG2 \&gt;" alt="" coords="332,173,529,203"/>
+<area shape="rect" id="node17" href="$classMojSignal2.htm" title="MojSignal2\&lt; TARG1,\l TARG2 \&gt;" alt="" coords="353,226,508,273"/>
+<area shape="rect" id="node21" href="$classMojSignal3.htm" title="MojSignal3\&lt; ARG1, ARG2,\l ARG3 \&gt;" alt="" coords="336,295,525,342"/>
+<area shape="rect" id="node23" href="$classMojSignal3.htm" title="MojSignal3\&lt; MojDbStorage\lTxn *, MojTagNil, MojTagNil \&gt;" alt="" coords="325,365,536,411"/>
+<area shape="rect" id="node27" href="$classMojSignal3.htm" title="MojSignal3\&lt; MojObject\l &amp;, MojErr, MojTagNil \&gt;" alt="" coords="347,434,515,481"/>
+<area shape="rect" id="node31" href="$classMojSignal3.htm" title="MojSignal3\&lt; MojServiceMessage\l *, MojObject &amp;, MojErr \&gt;" alt="" coords="315,503,547,550"/>
+<area shape="rect" id="node35" href="$classMojSignal3.htm" title="MojSignal3\&lt; MojServiceMessage\l *, MojTagNil, MojTagNil \&gt;" alt="" coords="315,573,547,619"/>
+<area shape="rect" id="node39" href="$classMojSignal3.htm" title="MojSignal3\&lt; TARG1,\l TARG2, TARG3 \&gt;" alt="" coords="353,642,508,689"/>
+<area shape="rect" id="node2" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,304,101,333"/>
+<area shape="rect" id="node7" href="$classMojSignal_3_01MojTagNil_00_01MojTagNil_00_01MojTagNil_01_4.htm" title="MojSignal\&lt; MojTagNil,\l MojTagNil, MojTagNil \&gt;" alt="" coords="632,5,805,51"/>
+<area shape="rect" id="node13" href="$classMojSignal_3_01TARG1_00_01MojTagNil_00_01MojTagNil_01_4.htm" title="MojSignal\&lt; TARG1, MojTag\lNil, MojTagNil \&gt;" alt="" coords="620,111,817,158"/>
+<area shape="rect" id="node19" href="$classMojSignal_3_01TARG1_00_01TARG2_00_01MojTagNil_01_4.htm" title="MojSignal\&lt; TARG1, TARG2,\l MojTagNil \&gt;" alt="" coords="619,226,819,273"/>
+<area shape="rect" id="node25" href="$classMojSignal.htm" title="MojSignal\&lt; MojDbStorageTxn * \&gt;" alt="" coords="603,373,835,403"/>
+<area shape="rect" id="node29" href="$classMojSignal.htm" title="MojSignal\&lt; MojObject\l &amp;, MojErr \&gt;" alt="" coords="640,434,797,481"/>
+<area shape="rect" id="node33" href="$classMojSignal.htm" title="MojSignal\&lt; MojServiceMessage\l *, MojObject &amp;, MojErr \&gt;" alt="" coords="607,503,831,550"/>
+<area shape="rect" id="node37" href="$classMojSignal.htm" title="MojSignal\&lt; MojServiceMessage * \&gt;" alt="" coords="596,581,841,611"/>
+<area shape="rect" id="node41" href="$classMojSignal.htm" title="MojSignal\&lt; TARG1, TARG2,\l TARG3 \&gt;" alt="" coords="619,642,819,689"/>
+</map>

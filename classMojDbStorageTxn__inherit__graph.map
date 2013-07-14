@@ -1,0 +1,9 @@
+<map id="MojDbStorageTxn" name="MojDbStorageTxn">
+<area shape="rect" id="node9" href="$classMojDbBerkeleyTxn.htm" title="MojDbBerkeleyTxn" alt="" coords="5,315,147,344"/>
+<area shape="rect" id="node11" href="$classMojDbInnoTxn.htm" title="MojDbInnoTxn" alt="" coords="171,315,285,344"/>
+<area shape="rect" id="node13" href="$classMojDbLevelAbstractTxn.htm" title="MojDbLevelAbstractTxn" alt="" coords="309,315,480,344"/>
+<area shape="rect" id="node2" href="$classMojSignalHandler.htm" title="MojSignalHandler" alt="" coords="161,160,295,189"/>
+<area shape="rect" id="node4" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="168,83,288,112"/>
+<area shape="rect" id="node6" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="180,5,276,35"/>
+<area shape="rect" id="node15" href="$classMojDbLevelEnvTxn.htm" title="MojDbLevelEnvTxn" alt="" coords="323,392,467,421"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="MojObject.h" name="MojObject.h">
+<area shape="rect" id="node3" href="$MojCoreDefs_8h.htm" title="core/MojCoreDefs.h" alt="" coords="780,584,927,613"/>
+<area shape="rect" id="node23" href="$MojDecimal_8h.htm" title="core/MojDecimal.h" alt="" coords="1028,160,1167,189"/>
+<area shape="rect" id="node37" href="$MojMap_8h.htm" title="core/MojMap.h" alt="" coords="1099,237,1213,267"/>
+<area shape="rect" id="node53" href="$MojString_8h.htm" title="core/MojString.h" alt="" coords="540,83,665,112"/>
+<area shape="rect" id="node59" href="$MojVector_8h.htm" title="core/MojVector.h" alt="" coords="639,160,767,189"/>
+<area shape="rect" id="node5" href="$MojConfig_8h.htm" title="core/internal/MojConfig.h" alt="" coords="597,661,776,691"/>
+<area shape="rect" id="node7" href="$MojNew_8h.htm" title="core/internal/MojNew.h" alt="" coords="931,661,1096,691"/>
+<area shape="rect" id="node11" href="$MojErr_8h.htm" title="core/MojErr.h" alt="" coords="377,661,484,691"/>
+<area shape="rect" id="node19" href="$MojOs_8h.htm" title="core/MojOs.h" alt="" coords="800,661,907,691"/>
+<area shape="rect" id="node13" href="$MojLog_8h.htm" title="core/MojLog.h" alt="" coords="331,739,443,768"/>
+<area shape="rect" id="node15" href="$MojListEntry_8h.htm" title="core/MojListEntry.h" alt="" coords="271,816,412,845"/>
+<area shape="rect" id="node17" href="$MojNoCopy_8h.htm" title="core/MojNoCopy.h" alt="" coords="129,893,268,923"/>
+<area shape="rect" id="node21" href="$MojOsInternal_8h.htm" title="core/internal/MojOsInternal.h" alt="" coords="751,739,956,768"/>
+<area shape="rect" id="node26" href="$MojHasher_8h.htm" title="core/MojHasher.h" alt="" coords="941,237,1075,267"/>
+<area shape="rect" id="node29" href="$MojUtil_8h.htm" title="core/MojUtil.h" alt="" coords="760,324,867,353"/>
+<area shape="rect" id="node32" href="$MojUtilInternal_8h.htm" title="core/internal/MojUtilInternal.h" alt="" coords="611,411,816,440"/>
+<area shape="rect" id="node34" href="$MojComp_8h.htm" title="core/MojComp.h" alt="" coords="651,497,776,527"/>
+<area shape="rect" id="node41" href="$MojRbTreeBase_8h.htm" title="core/internal/MojRbTreeBase.h" alt="" coords="1043,324,1261,353"/>
+<area shape="rect" id="node44" href="$MojAutoPtr_8h.htm" title="core/MojAutoPtr.h" alt="" coords="43,411,176,440"/>
+<area shape="rect" id="node47" href="$MojAtomicInt_8h.htm" title="core/MojAtomicInt.h" alt="" coords="341,497,488,527"/>
+<area shape="rect" id="node51" href="$MojAutoPtrInternal_8h.htm" title="core/internal/MojAutoPtr\lInternal.h" alt="" coords="144,489,317,535"/>
+<area shape="rect" id="node63" href="$MojRefCount_8h.htm" title="core/MojRefCount.h" alt="" coords="188,237,335,267"/>
+<area shape="rect" id="node72" href="$MojVectorInternal_8h.htm" title="core/internal/MojVectorInternal.h" alt="" coords="589,237,816,267"/>
+<area shape="rect" id="node68" href="$MojRefCountInternal_8h.htm" title="core/internal/MojRefCount\lInternal.h" alt="" coords="299,315,485,362"/>
+</map>

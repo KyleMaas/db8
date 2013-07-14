@@ -1,0 +1,8 @@
+<map id="MojDbStorageQuery" name="MojDbStorageQuery">
+<area shape="rect" id="node7" href="$classMojDbIsamQuery.htm" title="MojDbIsamQuery" alt="" coords="183,237,313,267"/>
+<area shape="rect" id="node2" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="188,83,308,112"/>
+<area shape="rect" id="node4" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="200,5,296,35"/>
+<area shape="rect" id="node9" href="$classMojDbBerkeleyQuery.htm" title="MojDbBerkeleyQuery" alt="" coords="5,315,160,344"/>
+<area shape="rect" id="node11" href="$classMojDbInnoQuery.htm" title="MojDbInnoQuery" alt="" coords="184,315,312,344"/>
+<area shape="rect" id="node13" href="$classMojDbLevelQuery.htm" title="MojDbLevelQuery" alt="" coords="336,315,469,344"/>
+</map>

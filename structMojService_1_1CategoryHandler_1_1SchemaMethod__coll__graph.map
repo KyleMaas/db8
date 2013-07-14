@@ -1,0 +1,27 @@
+<map id="MojService::CategoryHandler::SchemaMethod" name="MojService::CategoryHandler::SchemaMethod">
+<area shape="rect" id="node38" href="$classMojService.htm" title="MojService" alt="" coords="944,590,1035,619"/>
+<area shape="rect" id="node4" href="$classMojServiceMessage.htm" title="MojServiceMessage" alt="" coords="2353,370,2503,399"/>
+<area shape="rect" id="node6" href="$classMojMessage.htm" title="MojMessage" alt="" coords="939,207,1040,237"/>
+<area shape="rect" id="node8" href="$classMojSignalHandler.htm" title="MojSignalHandler" alt="" coords="552,219,685,249"/>
+<area shape="rect" id="node31" href="$classMojService_1_1CategoryHandler.htm" title="MojService::CategoryHandler" alt="" coords="887,413,1092,442"/>
+<area shape="rect" id="node71" href="$classMojSignalBase.htm" title="MojSignalBase" alt="" coords="932,87,1047,117"/>
+<area shape="rect" id="node10" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="155,361,275,390"/>
+<area shape="rect" id="node23" href="$classMojService_1_1Category.htm" title="MojService::Category" alt="" coords="2041,454,2196,483"/>
+<area shape="rect" id="node12" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,413,101,442"/>
+<area shape="rect" id="node14" href="$classMojListEntry.htm" title="MojListEntry" alt="" coords="343,171,441,201"/>
+<area shape="rect" id="node28" href="$classMojSmartPtrBase.htm" title="MojSmartPtrBase\&lt; MojService\l::CategoryHandler \&gt;" alt="" coords="1183,445,1396,492"/>
+<area shape="rect" id="node41" href="$classMojThreadMutex.htm" title="MojThreadMutex" alt="" coords="555,413,683,442"/>
+<area shape="rect" id="node51" href="$classMojMessageDispatcher.htm" title="MojMessageDispatcher" alt="" coords="307,986,477,1015"/>
+<area shape="rect" id="node54" href="$classMojLogger.htm" title="MojLogger" alt="" coords="169,518,260,547"/>
+<area shape="rect" id="node76" href="$classMojList.htm" title="MojList\&lt; MojSlotBase,\l&amp;MojSlotBase::m_entry \&gt;" alt="" coords="303,53,481,100"/>
+<area shape="rect" id="node26" href="$classMojRefCountedPtr.htm" title="MojRefCountedPtr\&lt; MojService\l::CategoryHandler \&gt;" alt="" coords="1524,445,1743,492"/>
+<area shape="rect" id="node34" href="$classMojHashMap.htm" title="MojHashMap\&lt; MojString,\l CallbackInfo, const\l MojChar * \&gt;" alt="" coords="528,651,709,715"/>
+<area shape="rect" id="node36" href="$classMojHashBase.htm" title="MojHashBase" alt="" coords="160,851,269,881"/>
+<area shape="rect" id="node47" href="$classMojHashMap.htm" title="MojHashMap\&lt; MojString,\l MojRefCountedPtr\&lt; Category\l \&gt;, const MojChar * \&gt;" alt="" coords="513,834,724,898"/>
+<area shape="rect" id="node57" href="$classMojHashMap.htm" title="MojHashMap\&lt; Token,\l MojRefCountedPtr\&lt; MojService\lRequest \&gt; \&gt;" alt="" coords="507,922,731,986"/>
+<area shape="rect" id="node44" href="$classMojString.htm" title="MojString" alt="" coords="577,781,660,810"/>
+<area shape="rect" id="node60" href="$classMojMap.htm" title="MojMap\&lt; SubscriptionKey,\l MojServiceMessage * \&gt;" alt="" coords="525,581,712,628"/>
+<area shape="rect" id="node62" href="$classMojRbTreeBase.htm" title="MojRbTreeBase" alt="" coords="153,590,276,619"/>
+<area shape="rect" id="node67" href="$classMojSignal.htm" title="MojSignal\&lt; MojServiceMessage * \&gt;" alt="" coords="1769,157,2015,186"/>
+<area shape="rect" id="node69" href="$classMojSignal3.htm" title="MojSignal3\&lt; MojServiceMessage\l *, MojTagNil, MojTagNil \&gt;" alt="" coords="1173,124,1405,171"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MojCoreDefs.h" name="MojCoreDefs.h">
+<area shape="rect" id="node3" href="$MojConfig_8h.htm" title="core/internal/MojConfig.h" alt="" coords="5,83,184,112"/>
+<area shape="rect" id="node5" href="$MojNew_8h.htm" title="core/internal/MojNew.h" alt="" coords="208,83,373,112"/>
+<area shape="rect" id="node9" href="$MojErr_8h.htm" title="core/MojErr.h" alt="" coords="397,83,504,112"/>
+<area shape="rect" id="node17" href="$MojOs_8h.htm" title="core/MojOs.h" alt="" coords="541,83,648,112"/>
+<area shape="rect" id="node11" href="$MojLog_8h.htm" title="core/MojLog.h" alt="" coords="381,160,493,189"/>
+<area shape="rect" id="node13" href="$MojListEntry_8h.htm" title="core/MojListEntry.h" alt="" coords="367,237,508,267"/>
+<area shape="rect" id="node15" href="$MojNoCopy_8h.htm" title="core/MojNoCopy.h" alt="" coords="368,315,507,344"/>
+<area shape="rect" id="node19" href="$MojOsInternal_8h.htm" title="core/internal/MojOsInternal.h" alt="" coords="517,160,723,189"/>
+</map>

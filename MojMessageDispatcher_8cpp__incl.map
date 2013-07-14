@@ -1,0 +1,31 @@
+<map id="MojMessageDispatcher.cpp" name="MojMessageDispatcher.cpp">
+<area shape="rect" id="node3" href="$MojMessageDispatcher_8h.htm" title="core/MojMessageDispatcher.h" alt="" coords="1167,83,1380,112"/>
+<area shape="rect" id="node5" href="$MojCoreDefs_8h.htm" title="core/MojCoreDefs.h" alt="" coords="892,739,1039,768"/>
+<area shape="rect" id="node25" href="$MojMessage_8h.htm" title="core/MojMessage.h" alt="" coords="1256,160,1403,189"/>
+<area shape="rect" id="node36" href="$MojThread_8h.htm" title="core/MojThread.h" alt="" coords="476,315,609,344"/>
+<area shape="rect" id="node75" href="$MojString_8h.htm" title="core/MojString.h" alt="" coords="1156,237,1281,267"/>
+<area shape="rect" id="node7" href="$MojConfig_8h.htm" title="core/internal/MojConfig.h" alt="" coords="709,816,888,845"/>
+<area shape="rect" id="node9" href="$MojNew_8h.htm" title="core/internal/MojNew.h" alt="" coords="1043,816,1208,845"/>
+<area shape="rect" id="node13" href="$MojErr_8h.htm" title="core/MojErr.h" alt="" coords="559,816,665,845"/>
+<area shape="rect" id="node21" href="$MojOs_8h.htm" title="core/MojOs.h" alt="" coords="912,816,1019,845"/>
+<area shape="rect" id="node15" href="$MojLog_8h.htm" title="core/MojLog.h" alt="" coords="547,893,659,923"/>
+<area shape="rect" id="node17" href="$MojListEntry_8h.htm" title="core/MojListEntry.h" alt="" coords="463,971,604,1000"/>
+<area shape="rect" id="node19" href="$MojNoCopy_8h.htm" title="core/MojNoCopy.h" alt="" coords="391,1048,529,1077"/>
+<area shape="rect" id="node23" href="$MojOsInternal_8h.htm" title="core/internal/MojOsInternal.h" alt="" coords="863,893,1068,923"/>
+<area shape="rect" id="node28" href="$MojSignal_8h.htm" title="core/MojSignal.h" alt="" coords="377,237,503,267"/>
+<area shape="rect" id="node31" href="$MojList_8h.htm" title="core/MojList.h" alt="" coords="92,315,201,344"/>
+<area shape="rect" id="node51" href="$MojVector_8h.htm" title="core/MojVector.h" alt="" coords="1053,315,1181,344"/>
+<area shape="rect" id="node73" href="$MojSignalInternal_8h.htm" title="core/internal/MojSignalInternal.h" alt="" coords="225,315,452,344"/>
+<area shape="rect" id="node34" href="$MojListInternal_8h.htm" title="core/internal/MojListInternal.h" alt="" coords="93,392,301,421"/>
+<area shape="rect" id="node39" href="$MojAtomicInt_8h.htm" title="core/MojAtomicInt.h" alt="" coords="672,575,819,604"/>
+<area shape="rect" id="node42" href="$MojThreadInternal_8h.htm" title="core/internal/MojThreadInternal.h" alt="" coords="427,392,659,421"/>
+<area shape="rect" id="node44" href="$MojAutoPtr_8h.htm" title="core/MojAutoPtr.h" alt="" coords="629,479,763,508"/>
+<area shape="rect" id="node49" href="$MojAutoPtrInternal_8h.htm" title="core/internal/MojAutoPtr\lInternal.h" alt="" coords="475,566,648,613"/>
+<area shape="rect" id="node54" href="$MojComp_8h.htm" title="core/MojComp.h" alt="" coords="963,661,1088,691"/>
+<area shape="rect" id="node57" href="$MojRefCount_8h.htm" title="core/MojRefCount.h" alt="" coords="984,392,1131,421"/>
+<area shape="rect" id="node67" href="$MojUtil_8h.htm" title="core/MojUtil.h" alt="" coords="1307,479,1413,508"/>
+<area shape="rect" id="node71" href="$MojVectorInternal_8h.htm" title="core/internal/MojVectorInternal.h" alt="" coords="733,392,960,421"/>
+<area shape="rect" id="node62" href="$MojRefCountInternal_8h.htm" title="core/internal/MojRefCount\lInternal.h" alt="" coords="944,470,1131,517"/>
+<area shape="rect" id="node64" href="$MojUtilInternal_8h.htm" title="core/internal/MojUtilInternal.h" alt="" coords="1088,575,1293,604"/>
+<area shape="rect" id="node80" href="$MojHasher_8h.htm" title="core/MojHasher.h" alt="" coords="1357,392,1491,421"/>
+</map>

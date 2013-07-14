@@ -1,0 +1,21 @@
+<map id="MojDbTextTokenizer.h" name="MojDbTextTokenizer.h">
+<area shape="rect" id="node3" href="$MojDbExtractor_8h.htm" title="MojDbExtractor.h" alt="" coords="1485,83,1616,112"/>
+<area shape="rect" id="node29" href="$MojDbQueryPlan_8cpp.htm" title="MojDbQueryPlan.cpp" alt="" coords="1359,237,1513,267"/>
+<area shape="rect" id="node41" href="$MojDbExtractor_8cpp.htm" title="MojDbExtractor.cpp" alt="" coords="1588,160,1732,189"/>
+<area shape="rect" id="node46" href="$MojDbTextTokenizer_8cpp.htm" title="MojDbTextTokenizer.cpp" alt="" coords="1807,83,1985,112"/>
+<area shape="rect" id="node5" href="$MojDbIndex_8h.htm" title="MojDbIndex.h" alt="" coords="1063,160,1169,189"/>
+<area shape="rect" id="node23" href="$MojDbSearchCursor_8cpp.htm" title="MojDbSearchCursor.cpp" alt="" coords="1155,315,1328,344"/>
+<area shape="rect" id="node36" href="$MojDbRevisionSet_8h.htm" title="MojDbRevisionSet.h" alt="" coords="531,160,677,189"/>
+<area shape="rect" id="node7" href="$MojDbKind_8h.htm" title="MojDbKind.h" alt="" coords="553,237,655,267"/>
+<area shape="rect" id="node13" href="$MojDbIndex_8cpp.htm" title="MojDbIndex.cpp" alt="" coords="869,315,992,344"/>
+<area shape="rect" id="node15" href="$MojDbKind_8cpp.htm" title="MojDbKind.cpp" alt="" coords="1016,315,1131,344"/>
+<area shape="rect" id="node25" href="$MojDbCursor_8cpp.htm" title="MojDbCursor.cpp" alt="" coords="1204,237,1335,267"/>
+<area shape="rect" id="node32" href="$MojDbServiceHandler_8cpp.htm" title="MojDbServiceHandler.cpp" alt="" coords="679,237,863,267"/>
+<area shape="rect" id="node34" href="$MojDbWatcher_8cpp.htm" title="MojDbWatcher.cpp" alt="" coords="887,237,1028,267"/>
+<area shape="rect" id="node9" href="$MojDb_8cpp.htm" title="MojDb.cpp" alt="" coords="757,315,845,344"/>
+<area shape="rect" id="node11" href="$MojDbAdmin_8cpp.htm" title="MojDbAdmin.cpp" alt="" coords="5,315,131,344"/>
+<area shape="rect" id="node17" href="$MojDbKindEngine_8cpp.htm" title="MojDbKindEngine.cpp" alt="" coords="155,315,315,344"/>
+<area shape="rect" id="node19" href="$MojDbPermissionEngine_8cpp.htm" title="MojDbPermissionEngine.cpp" alt="" coords="339,315,539,344"/>
+<area shape="rect" id="node21" href="$MojDbQuotaEngine_8cpp.htm" title="MojDbQuotaEngine.cpp" alt="" coords="563,315,733,344"/>
+<area shape="rect" id="node39" href="$MojDbRevisionSet_8cpp.htm" title="MojDbRevisionSet.cpp" alt="" coords="367,237,529,267"/>
+</map>

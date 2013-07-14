@@ -1,0 +1,7 @@
+<map id="MojDbStorageEngine" name="MojDbStorageEngine">
+<area shape="rect" id="node2" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="112,85,232,115"/>
+<area shape="rect" id="node11" href="$classMojDbStorageEngineFactory.htm" title="MojDbStorageEngineFactory" alt="" coords="71,165,273,195"/>
+<area shape="rect" id="node4" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="220,5,316,35"/>
+<area shape="rect" id="node8" href="$classMojSmartPtrBase.htm" title="MojSmartPtrBase\&lt; MojDbStorage\lEngineFactory \&gt;" alt="" coords="73,262,308,309"/>
+<area shape="rect" id="node6" href="$classMojRefCountedPtr.htm" title="MojRefCountedPtr\&lt; MojDbStorage\lEngineFactory \&gt;" alt="" coords="71,361,311,407"/>
+</map>

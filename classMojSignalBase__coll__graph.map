@@ -1,0 +1,7 @@
+<map id="MojSignalBase" name="MojSignalBase">
+<area shape="rect" id="node2" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,79,101,109"/>
+<area shape="rect" id="node6" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="152,47,272,77"/>
+<area shape="rect" id="node9" href="$classMojThreadMutex.htm" title="MojThreadMutex" alt="" coords="323,102,451,131"/>
+<area shape="rect" id="node12" href="$classMojList.htm" title="MojList\&lt; MojSlotBase,\l&amp;MojSlotBase::m_entry \&gt;" alt="" coords="297,156,476,203"/>
+<area shape="rect" id="node4" href="$classMojSignalHandler.htm" title="MojSignalHandler" alt="" coords="503,47,636,77"/>
+</map>

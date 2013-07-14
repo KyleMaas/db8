@@ -1,0 +1,20 @@
+<map id="MojVector.h" name="MojVector.h">
+<area shape="rect" id="node3" href="$MojCoreDefs_8h.htm" title="core/MojCoreDefs.h" alt="" coords="416,429,563,459"/>
+<area shape="rect" id="node23" href="$MojComp_8h.htm" title="core/MojComp.h" alt="" coords="527,343,652,372"/>
+<area shape="rect" id="node26" href="$MojRefCount_8h.htm" title="core/MojRefCount.h" alt="" coords="371,83,517,112"/>
+<area shape="rect" id="node44" href="$MojUtil_8h.htm" title="core/MojUtil.h" alt="" coords="753,169,860,199"/>
+<area shape="rect" id="node48" href="$MojVectorInternal_8h.htm" title="core/internal/MojVectorInternal.h" alt="" coords="935,83,1161,112"/>
+<area shape="rect" id="node5" href="$MojConfig_8h.htm" title="core/internal/MojConfig.h" alt="" coords="400,507,579,536"/>
+<area shape="rect" id="node7" href="$MojNew_8h.htm" title="core/internal/MojNew.h" alt="" coords="603,507,768,536"/>
+<area shape="rect" id="node11" href="$MojErr_8h.htm" title="core/MojErr.h" alt="" coords="111,507,217,536"/>
+<area shape="rect" id="node19" href="$MojOs_8h.htm" title="core/MojOs.h" alt="" coords="269,507,376,536"/>
+<area shape="rect" id="node13" href="$MojLog_8h.htm" title="core/MojLog.h" alt="" coords="80,584,192,613"/>
+<area shape="rect" id="node15" href="$MojListEntry_8h.htm" title="core/MojListEntry.h" alt="" coords="60,661,201,691"/>
+<area shape="rect" id="node17" href="$MojNoCopy_8h.htm" title="core/MojNoCopy.h" alt="" coords="5,739,144,768"/>
+<area shape="rect" id="node21" href="$MojOsInternal_8h.htm" title="core/internal/MojOsInternal.h" alt="" coords="220,584,425,613"/>
+<area shape="rect" id="node29" href="$MojAtomicInt_8h.htm" title="core/MojAtomicInt.h" alt="" coords="305,343,452,372"/>
+<area shape="rect" id="node32" href="$MojAutoPtr_8h.htm" title="core/MojAutoPtr.h" alt="" coords="128,256,261,285"/>
+<area shape="rect" id="node39" href="$MojRefCountInternal_8h.htm" title="core/internal/MojRefCount\lInternal.h" alt="" coords="485,161,672,207"/>
+<area shape="rect" id="node37" href="$MojAutoPtrInternal_8h.htm" title="core/internal/MojAutoPtr\lInternal.h" alt="" coords="108,334,281,381"/>
+<area shape="rect" id="node41" href="$MojUtilInternal_8h.htm" title="core/internal/MojUtilInternal.h" alt="" coords="481,256,687,285"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MojDbStorageCollection" name="MojDbStorageCollection">
+<area shape="rect" id="node7" href="$classMojDbStorageDatabase.htm" title="MojDbStorageDatabase" alt="" coords="543,85,713,115"/>
+<area shape="rect" id="node15" href="$classMojDbStorageIndex.htm" title="MojDbStorageIndex" alt="" coords="555,192,701,221"/>
+<area shape="rect" id="node2" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="149,139,269,168"/>
+<area shape="rect" id="node4" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,139,101,168"/>
+<area shape="rect" id="node9" href="$classMojDbBerkeleyDatabase.htm" title="MojDbBerkeleyDatabase" alt="" coords="764,5,940,35"/>
+<area shape="rect" id="node11" href="$classMojDbInnoDatabase.htm" title="MojDbInnoDatabase" alt="" coords="777,59,927,88"/>
+<area shape="rect" id="node13" href="$classMojDbLevelDatabase.htm" title="MojDbLevelDatabase" alt="" coords="775,112,929,141"/>
+<area shape="rect" id="node17" href="$classMojDbBerkeleyIndex.htm" title="MojDbBerkeleyIndex" alt="" coords="776,165,928,195"/>
+<area shape="rect" id="node19" href="$classMojDbInnoIndex.htm" title="MojDbInnoIndex" alt="" coords="789,219,915,248"/>
+<area shape="rect" id="node21" href="$classMojDbLevelIndex.htm" title="MojDbLevelIndex" alt="" coords="787,272,917,301"/>
+</map>

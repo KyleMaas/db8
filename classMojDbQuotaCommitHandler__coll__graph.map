@@ -1,0 +1,10 @@
+<map id="MojDbQuotaCommitHandler" name="MojDbQuotaCommitHandler">
+<area shape="rect" id="node2" href="$classMojSignalHandler.htm" title="MojSignalHandler" alt="" coords="5,341,139,371"/>
+<area shape="rect" id="node4" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="17,185,137,215"/>
+<area shape="rect" id="node6" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="373,5,469,35"/>
+<area shape="rect" id="node10" href="$classMojDbPutHandler.htm" title="MojDbPutHandler" alt="" coords="207,397,337,427"/>
+<area shape="rect" id="node13" href="$classMojDb.htm" title="MojDb" alt="" coords="241,285,303,315"/>
+<area shape="rect" id="node20" href="$classMojLogger.htm" title="MojLogger" alt="" coords="127,85,217,115"/>
+<area shape="rect" id="node8" href="$classMojDbQuotaEngine.htm" title="MojDbQuotaEngine" alt="" coords="132,477,276,507"/>
+<area shape="rect" id="node26" href="$classMojString.htm" title="MojString" alt="" coords="300,477,383,507"/>
+</map>

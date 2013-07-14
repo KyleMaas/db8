@@ -1,0 +1,25 @@
+<map id="MojSignalHandler" name="MojSignalHandler">
+<area shape="rect" id="node7" href="$classMojDbClient.htm" title="MojDbClient" alt="" coords="564,5,663,35"/>
+<area shape="rect" id="node11" href="$classMojDbIndex.htm" title="MojDbIndex" alt="" coords="565,59,661,88"/>
+<area shape="rect" id="node13" href="$classMojDbQuotaCommitHandler.htm" title="MojDbQuotaCommitHandler" alt="" coords="515,112,712,141"/>
+<area shape="rect" id="node15" href="$classMojDbQuotaEngine_1_1Offset.htm" title="MojDbQuotaEngine::Offset" alt="" coords="520,165,707,195"/>
+<area shape="rect" id="node27" href="$classMojDbStorageTxn.htm" title="MojDbStorageTxn" alt="" coords="545,565,681,595"/>
+<area shape="rect" id="node37" href="$classMojDbWatcher.htm" title="MojDbWatcher" alt="" coords="556,619,671,648"/>
+<area shape="rect" id="node43" href="$classMojMessage.htm" title="MojMessage" alt="" coords="563,779,664,808"/>
+<area shape="rect" id="node53" href="$classMojService_1_1CategoryHandler.htm" title="MojService::CategoryHandler" alt="" coords="511,832,716,861"/>
+<area shape="rect" id="node61" href="$classMojServiceRequest.htm" title="MojServiceRequest" alt="" coords="541,885,685,915"/>
+<area shape="rect" id="node2" href="$classMojRefCounted.htm" title="MojRefCounted" alt="" coords="149,565,269,595"/>
+<area shape="rect" id="node4" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,565,101,595"/>
+<area shape="rect" id="node9" href="$classMojDbServiceClient.htm" title="MojDbServiceClient" alt="" coords="797,5,941,35"/>
+<area shape="rect" id="node29" href="$classMojDbBerkeleyTxn.htm" title="MojDbBerkeleyTxn" alt="" coords="799,512,940,541"/>
+<area shape="rect" id="node31" href="$classMojDbInnoTxn.htm" title="MojDbInnoTxn" alt="" coords="812,565,927,595"/>
+<area shape="rect" id="node33" href="$classMojDbLevelAbstractTxn.htm" title="MojDbLevelAbstractTxn" alt="" coords="784,619,955,648"/>
+<area shape="rect" id="node35" href="$classMojDbLevelEnvTxn.htm" title="MojDbLevelEnvTxn" alt="" coords="1045,619,1189,648"/>
+<area shape="rect" id="node45" href="$classMojServiceMessage.htm" title="MojServiceMessage" alt="" coords="795,752,944,781"/>
+<area shape="rect" id="node47" href="$classMojLunaMessage.htm" title="MojLunaMessage" alt="" coords="1051,672,1184,701"/>
+<area shape="rect" id="node49" href="$classMojSocketMessage.htm" title="MojSocketMessage" alt="" coords="1044,725,1191,755"/>
+<area shape="rect" id="node55" href="$classMojDbServiceHandlerBase.htm" title="MojDbServiceHandlerBase" alt="" coords="775,832,964,861"/>
+<area shape="rect" id="node57" href="$classMojDbServiceHandler.htm" title="MojDbServiceHandler" alt="" coords="1039,832,1196,861"/>
+<area shape="rect" id="node59" href="$classMojDbServiceHandlerInternal.htm" title="MojDbServiceHandlerInternal" alt="" coords="1015,885,1220,915"/>
+<area shape="rect" id="node63" href="$classMojLunaRequest.htm" title="MojLunaRequest" alt="" coords="805,885,933,915"/>
+</map>

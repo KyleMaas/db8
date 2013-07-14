@@ -1,0 +1,13 @@
+<map id="MojSmartPtrBase&lt; T &gt;" name="MojSmartPtrBase&lt; T &gt;">
+<area shape="rect" id="node5" href="$classMojAutoPtrBase.htm" title="MojAutoPtrBase\&lt; T \&gt;" alt="" coords="371,5,525,35"/>
+<area shape="rect" id="node7" href="$classMojAutoPtrBase.htm" title="MojAutoPtrBase\&lt; T,\l MojArrayDeleteDtor\l\&lt; T \&gt; \&gt;" alt="" coords="373,59,523,123"/>
+<area shape="rect" id="node11" href="$classMojAutoPtrBase.htm" title="MojAutoPtrBase\&lt; T,\l MojCloseDtor\&lt; T \&gt; \&gt;" alt="" coords="369,146,527,193"/>
+<area shape="rect" id="node15" href="$classMojAutoPtrBase.htm" title="MojAutoPtrBase\&lt; T,\l MojDeleteDtor\&lt; T \&gt; \&gt;" alt="" coords="367,215,529,262"/>
+<area shape="rect" id="node19" href="$classMojAutoPtrBase.htm" title="MojAutoPtrBase\&lt; T,\l MojFreeDtor \&gt;" alt="" coords="375,285,521,331"/>
+<area shape="rect" id="node23" href="$classMojRefCountedPtr.htm" title="MojRefCountedPtr\&lt; T \&gt;" alt="" coords="363,355,533,384"/>
+<area shape="rect" id="node2" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="5,189,101,219"/>
+<area shape="rect" id="node9" href="$classMojAutoArrayPtr.htm" title="MojAutoArrayPtr\&lt; T \&gt;" alt="" coords="583,76,740,105"/>
+<area shape="rect" id="node13" href="$classMojAutoCloser.htm" title="MojAutoCloser\&lt; T \&gt;" alt="" coords="588,155,735,184"/>
+<area shape="rect" id="node17" href="$classMojAutoPtr.htm" title="MojAutoPtr\&lt; T \&gt;" alt="" coords="600,224,723,253"/>
+<area shape="rect" id="node21" href="$classMojAutoFreePtr.htm" title="MojAutoFreePtr\&lt; T \&gt;" alt="" coords="585,293,737,323"/>
+</map>

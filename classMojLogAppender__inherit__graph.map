@@ -1,0 +1,6 @@
+<map id="MojLogAppender" name="MojLogAppender">
+<area shape="rect" id="node5" href="$classMojFileAppender.htm" title="MojFileAppender" alt="" coords="5,160,133,189"/>
+<area shape="rect" id="node7" href="$classMojPmLogAppender.htm" title="MojPmLogAppender" alt="" coords="157,160,307,189"/>
+<area shape="rect" id="node9" href="$classMojSyslogAppender.htm" title="MojSyslogAppender" alt="" coords="331,160,480,189"/>
+<area shape="rect" id="node2" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="184,5,280,35"/>
+</map>

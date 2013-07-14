@@ -1,0 +1,6 @@
+<map id="MojSlotBase3&lt; TARG1, TARG2, TARG3 &gt;" name="MojSlotBase3&lt; TARG1, TARG2, TARG3 &gt;">
+<area shape="rect" id="node7" href="$classMojSlot3.htm" title="MojSlot3\&lt; TARG1, TARG2,\l TARG3 \&gt;" alt="" coords="5,257,197,303"/>
+<area shape="rect" id="node2" href="$classMojSlotBase.htm" title="MojSlotBase" alt="" coords="51,83,152,112"/>
+<area shape="rect" id="node4" href="$classMojNoCopy.htm" title="MojNoCopy" alt="" coords="53,5,149,35"/>
+<area shape="rect" id="node9" href="$classMojSignal3_1_1Slot.htm" title="MojSignal3\&lt; THANDLER,\l TARG1, TARG2, TARG3\l \&gt;::Slot" alt="" coords="11,352,192,416"/>
+</map>
