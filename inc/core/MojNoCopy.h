@@ -20,13 +20,44 @@
 #ifndef MOJNOCOPY_H_
 #define MOJNOCOPY_H_
 
+/**
+ * Prevent class from being copied
+ *
+ * Defines both common methods of copying a class as private members to prevent
+ * instances of any derivative class from being copied.
+ */
 class MojNoCopy
 {
 protected:
+	/**
+	 * Allow a regular constructor
+	 *
+	 * The normal constructor is defined as protected to allow it to be
+	 * called by derivative classes.  This class, however, is prevented from
+	 * being instantiated directly and is thereby only allowed to be used
+	 * by a derivative class.
+	 */
 	MojNoCopy() {}
 
 private:
+	/**
+	 * Copy constructor
+	 *
+	 * Defined as private to disallow copying of instances via the copy
+	 * constructor.
+	 *
+	 * @param	instance		Reference to instance to copy.
+	 */
 	MojNoCopy(const MojNoCopy&);
+
+	/**
+	 * Assignment operator
+	 *
+	 * Defined as private to disallow copying of instances via a simple
+	 * variable assignment.
+	 * 
+	 * @param	instance		Reference to instance to copy.
+	 */
 	MojNoCopy& operator=(const MojNoCopy&);
 };
 
